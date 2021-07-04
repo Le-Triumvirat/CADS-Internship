@@ -4,4 +4,4 @@ This repository is for managing our work on anomaly detection in financial servi
 Team contributors :
 1. <a href="https://github.com/balajiramanan7">Balaji Chandramouli</a>
 2. <a href="https://github.com/kai-subramanian">Kailash Subramanian</a>
-3. <a href="https://github.com/vishnubalaji">Vishnu Balaji V B</a>
+3. <a href="https://github.com/vishnubalaji">Vishnu Balaji V B 👽📚🚀😈</a>
