@@ -5,3 +5,12 @@ Team contributors :
 1. <a href="https://github.com/balajiramanan7">Balaji Chandramouli</a>
 2. <a href="https://github.com/kai-subramanian">Kailash Subramanian</a>
 3. <a href="https://github.com/vishnubalaji">Vishnu Balaji V B 👽📚🚀😈</a>
+
+<i>Tools/Libraries used</i>
+<ul>
+  <li>PyTorch</li>
+  <li>DGL</li>
+  <li>NetworkX</li>
+  <li>Scikit-learn</li>
+  <li>Pandas</li>
+</ul>
